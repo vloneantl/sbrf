@@ -1,0 +1,4 @@
+/Users/antonlukanov/Desktop/Sber/model evaluate/images/.DS_Store
+/Users/antonlukanov/Desktop/Sber/model evaluate/images/ff51e615f23f3403.jpg
+/Users/antonlukanov/Desktop/Sber/model evaluate/images/ffea3ca65f7b4de4.jpg
+/Users/antonlukanov/Desktop/Sber/model evaluate/images/ffed2f39e587ff49.jpg
